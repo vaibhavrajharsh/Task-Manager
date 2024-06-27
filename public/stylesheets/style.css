@@ -1,0 +1,8 @@
+@media (min-width:600px) {
+    #preName{
+        width: 40vw;
+    }
+    #newName{
+        width: 40vw;
+    }
+}
